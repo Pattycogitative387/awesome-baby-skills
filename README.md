@@ -38,6 +38,17 @@ Not medical advice. Not replacing your pediatrician. Just a second brain that re
 
 ## The Skills
 
+### 👶 Core Baby Intelligence
+
+| Skill | What It Does | Platforms |
+|---|---|---|
+| [baby.skill](https://github.com/realteamprinz/baby-skill) | Core parenting co-pilot. Builds a living profile of YOUR baby — soothing playbook, sleep patterns, feeding rhythm, entertainment map. Self-learning. Works ages 0-3. | OpenClaw · Hermes · Claude Code |
+| [newborn.skill](https://github.com/realteamprinz/newborn-skill) | The first 90 days. Cry decoder, feed-sleep-wake cycle tracker, night shift intelligence, diaper patterns. Survival mode. | OpenClaw · Hermes · Claude Code |
+| [infant.skill](https://github.com/realteamprinz/infant-skill) | 3-12 months. Solid food introduction tracker, motor milestone cascade, babbling decoder, separation anxiety intelligence. Discovery mode. | OpenClaw · Hermes · Claude Code |
+| [toddler.skill](https://github.com/realteamprinz/toddler-skill) | 1-3 years. Tantrum pattern intelligence, language explosion tracker, potty training navigator, picky eating manager. Chaos mode. | OpenClaw · Hermes · Claude Code |
+
+---
+
 ### 📚 Baby Reading & Story Intelligence
 
 Skills that curate, recommend, and adapt reading content for babies and toddlers based on age, attention span, and observed preferences.
